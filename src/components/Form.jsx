@@ -49,7 +49,7 @@ export default function Form() {
           id="colors"
           cols="40"
           rows="4"
-          placeholder="'#000000, #000000, #000000, #000000'"
+          placeholder="#000000, #000000, #000000, #000000"
           onChange={e => setNewColors(e.target.value.split(','))}
         />
       </fieldset>

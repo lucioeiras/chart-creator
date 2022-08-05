@@ -8,13 +8,13 @@ export const Container = styled.div`
     border: none;
 
     margin-bottom: 24px;
-  }
 
-  > label {
-    color: #718096;
-    font-size: 14px;
+    > label {
+      color: #718096;
+      font-size: 14px;
 
-    margin-bottom: 8px;
+      margin-bottom: 8px;
+    }
   }
 `;
 
